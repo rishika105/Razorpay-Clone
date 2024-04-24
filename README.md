@@ -36,6 +36,8 @@ Make sure you have Node.js and npm installed on your system.
 
 ## Screenshot
 
+![FireShot Capture 001 - Razorpay Clone - localhost](https://github.com/rishika105/Razorpay-Clone/assets/165581871/e71e5c84-93e6-45bf-8eaf-dd6e2387c9f2)
+
 
 
 
