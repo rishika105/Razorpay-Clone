@@ -19,7 +19,7 @@ Make sure you have Node.js and npm installed on your system.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/razorpay-clone.git
+   git clone https://github.com/rishika105/razorpay-clone.git
    ```
 2. Install NPM packages
    ```sh
