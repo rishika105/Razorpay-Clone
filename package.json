@@ -4,7 +4,9 @@
   "description": "Tailwind",
   "main": "index.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build:css": "postcss src/styles.css -o _site/main.css",
+    "build": "jekyll build"
   },
   "author": "",
   "license": "ISC",
